@@ -1,0 +1,12 @@
+html {
+    font-family: timesnew, sans-serif;
+    font-size: 10px;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    border-style: double;
+    border-radius: 2%;
+    margin: 20px;
+}
